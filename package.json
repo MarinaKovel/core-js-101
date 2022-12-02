@@ -10,13 +10,16 @@
   "author": "aorgish, mikhama",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^6.6.0",
-    "eslint-config-airbnb-base": "^14.0.0",
-    "eslint-plugin-import": "^2.18.2",
-    "mocha": "^6.2.2"
+    "eslint": "^8.28.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "mocha": "^10.1.0"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/mikhama/core-js-101.git"
+  },
+  "dependencies": {
+    "jslint": "^0.12.1"
   }
 }
